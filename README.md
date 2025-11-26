@@ -33,7 +33,7 @@
             border: 2px solid black;
             border-radius: 20px;
             background-color: yellow;
-            width: 300px;
+            width: 280px;
             padding: 20px;
             margin: 40px auto;
         }
@@ -50,6 +50,7 @@
             font-size: 20px;
             padding-left: 10px;
             border-radius: 20px;
+            margin-right: 20px
         }
 
         /* Row layout */
